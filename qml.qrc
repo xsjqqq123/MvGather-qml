@@ -1,0 +1,69 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CentralArea.qml</file>
+        <file>Fun.js</file>
+        <file>base64.js</file>
+    </qresource>
+    <qresource prefix="/videosList">
+        <file>VideosListView.qml</file>
+        <file>BusyIndicator.qml</file>
+        <file>PagingConponent.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/background.png</file>
+        <file>images/star.png</file>
+        <file>images/test.jpg</file>
+        <file>images/border.png</file>
+        <file>images/busy.png</file>
+        <file>images/border_select.png</file>
+        <file>images/list.png</file>
+        <file>images/button.png</file>
+        <file>images/panel_bg.png</file>
+        <file>images/stars.png</file>
+        <file>images/stars2.png</file>
+        <file>images/switch_background.png</file>
+        <file>images/switch_frame.png</file>
+        <file>images/switch_on.png</file>
+        <file>images/switch_thumb.png</file>
+        <file>images/television.png</file>
+        <file>images/expander.png</file>
+        <file>images/play-pause.png</file>
+        <file>images/play-start.png</file>
+        <file>images/fullScreen.png</file>
+        <file>images/normal.png</file>
+        <file>images/settings.png</file>
+        <file>images/close.png</file>
+        <file>images/panel_bg2.png</file>
+        <file>images/search.png</file>
+        <file>images/magnet.png</file>
+        <file>images/sync.png</file>
+    </qresource>
+    <qresource prefix="/navMenu">
+        <file>NavPanel.qml</file>
+        <file>MovieNav.qml</file>
+        <file>TvNav.qml</file>
+        <file>TvShowNav.qml</file>
+        <file>ComicNav.qml</file>
+    </qresource>
+    <qresource prefix="/player">
+        <file>Player.qml</file>
+        <file>TreeView.qml</file>
+        <file>PlayerList.qml</file>
+        <file>ScrollBar.qml</file>
+        <file>ControlPanel.qml</file>
+    </qresource>
+    <qresource prefix="/videoDetail">
+        <file>VideoDetailsView.qml</file>
+        <file>Button.qml</file>
+        <file>SelectSource.qml</file>
+        <file>RatingsItem.qml</file>
+    </qresource>
+    <qresource prefix="/components">
+        <file>Settings.qml</file>
+        <file>Search.qml</file>
+    </qresource>
+    <qresource prefix="/Magnet">
+        <file>Magnet.qml</file>
+    </qresource>
+</RCC>
